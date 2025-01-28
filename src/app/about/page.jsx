@@ -48,13 +48,13 @@ const AboutPage = () => {
             with applications in biology and medicine. He also works on characterizing Indian traditional medical formulations from both 
             Siddha and ayurveda. He actively works in pushing the frontiers of Indian Knowledge systems(STEM) in contemporary context. 
             His research group is an eclectic mixture of chemists and computational scientists.<br></br>
-
-            <b>He also leads the center for Indian Knowledge System (IKS@IITBHU).</b>
+            <b>He also leads the center for Indian Knowledge System (IKS@IITBHU).</b><br></br>
             </p>
             {/* BIOGRAPHY QUOTE */}
             <span className="italic">
             &quot;Knowledge is like food, you can share it only if you have it!!&quot;
             </span>
+            <i><b>Tweets @<u><a href="https://x.com/vraman16" target="_blank">vraman16</a></u></b></i>
             {/* BIOGRAPHY SIGN SVG*/}
             {/* <div className="self-end">
               <svg
