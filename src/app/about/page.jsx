@@ -53,7 +53,7 @@ const AboutPage = () => {
             </p>
             {/* BIOGRAPHY QUOTE */}
             <span className="italic">
-              "Knowledge is like food, you can share it only if you have it!!"
+            &quot;Knowledge is like food, you can share it only if you have it!!&quot;
             </span>
             {/* BIOGRAPHY SIGN SVG*/}
             {/* <div className="self-end">
