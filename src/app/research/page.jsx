@@ -138,11 +138,11 @@ const PortfolioPage = () => {
                     </div>
                   </div>
                   <div className="flex-1 text-left">
-                    <h1 className="text-xl font-bold md:text-4xl lg:text-6xl xl:text-6xl mb-4">
+                    <h1 className="text-xl font-bold md:text-4xl lg:text-6xl xl:text-4xl mb-4">
                       {item.title}
                     </h1>
                     {/* Convert description into bullet points */}
-                    <ul className="list-disc list-inside text-sm md:text-lg lg:text-xl xl:text-xl mb-8">
+                    <ul className="list-disc list-inside text-sm md:text-lg lg:text-xl xl:text-l mb-8">
                       {item.desc.split('\n').map((line, index) => (
                         <li key={index}>{line}</li>
                       ))}
