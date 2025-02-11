@@ -41,7 +41,7 @@ const teamMembers = [
     image: '/people/ajay.png', // Replace with actual image path
   },
   {
-    name: 'Dr. Arul S Selvan',
+    name: 'Dr. S Arul Selvan',
     role: 'Ph.D. Student',
     email: 'arulsevans.rs.chy24[at]itbhu.ac.in',
     office: 'Dept. of Chemistry | IIT-BHU',
