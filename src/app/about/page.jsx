@@ -42,7 +42,7 @@ const AboutPage = () => {
             <h1 className="font-bold text-2xl">BIOGRAPHY</h1>
             {/* BIOGRAPHY DESC */}
             <p className="text-lg">
-            Dr. V. Ramanathan is an Assistant Professor in the Department of Chemistry at IIT (BHU), Varanasi. He earned his Ph.D. Degree from 
+            Dr. V. Ramanathan is an Associate Professor in the Department of Chemistry at IIT (BHU), Varanasi. He earned his Ph.D. Degree from 
             IIT Kanpur working in the area of conformation analysis in supersonic jet condition under the supervision of Professor Tapas Chakraborty.
             His research focuses on Raman spectroscopy, surface-enhanced Raman scattering, and computational chemistry, 
             with applications in biology and medicine. He also works on characterizing Indian traditional medical formulations from both 
