@@ -71,7 +71,7 @@ I'm a Co-PI with Archeologist Dr. Sachin Kumar at BHU in an Iks funded project.`
     CY-406 Group Theory and Molecular Spectroscopy
     CY-351 Statistical Thermodynamics
     CY-517 Lasers and its applications in chemistry and biology`,
-    img: "/research/teaching.jpg",
+    img: "/research/teaching.png",
     // link: "https://scholar.google.co.in/citations?user=oLHHKoAAAAAJ&hl=en",
   },
   {
